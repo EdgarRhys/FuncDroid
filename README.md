@@ -46,6 +46,8 @@ FuncDroid follows an iterative workflow that (1) builds/updates the FFG from exe
 - `test.py`: minimal entry script that explores the **currently foreground** Android app on a connected device and writes artifacts to `./output/`.
 - `Effectiveness evaluation/`, `Usefulness evaluation/`: experiment outputs and datasets (large; not required for running the tool).
 
+> Full repository (including large evaluation artifacts and datasets): https://github.com/EdgarRhys/FuncDroid_Full
+
 ## Prerequisites
 
 - Windows/macOS/Linux with **Python 3.9+**
